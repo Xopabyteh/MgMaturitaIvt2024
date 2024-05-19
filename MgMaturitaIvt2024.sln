@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailValidation", "EmailValidation\EmailValidation.csproj", "{AA3118BB-8E3F-4535-B26E-5766A2F6B08F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchange", "CurrencyExchange\CurrencyExchange.csproj", "{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{AA3118BB-8E3F-4535-B26E-5766A2F6B08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA3118BB-8E3F-4535-B26E-5766A2F6B08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA3118BB-8E3F-4535-B26E-5766A2F6B08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
