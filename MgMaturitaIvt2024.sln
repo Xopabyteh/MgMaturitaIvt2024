@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailValidation", "EmailVal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyExchange", "CurrencyExchange\CurrencyExchange.csproj", "{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryOnes", "BinaryOnes\BinaryOnes.csproj", "{C00E588E-252B-47F3-B6DF-DC34FD726B1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1FA8F76-06BF-4E83-8BFA-4C98AD02DFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C00E588E-252B-47F3-B6DF-DC34FD726B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00E588E-252B-47F3-B6DF-DC34FD726B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00E588E-252B-47F3-B6DF-DC34FD726B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00E588E-252B-47F3-B6DF-DC34FD726B1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
