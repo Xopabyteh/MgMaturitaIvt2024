@@ -75,7 +75,7 @@ Navrhněte optimální algoritmus a napište program, který určí nejkratší 
 #### Příklad vstupu a výstupu
 
 ```
-[CZK, EUR, 25,3], [CZK, USD, 24.1], [EUR, USD, 0.95], [USD, JPY, 17.3], [HRK, NOK, 0.25], [EUR, NOK, 7.1]
+[CZK, EUR, 25.3], [CZK, USD, 24.1], [EUR, USD, 0.95], [USD, JPY, 17.3], [HRK, NOK, 0.25], [EUR, NOK, 7.1]
 CZK, NOK
 
 [CZK, EUR], [EUR, NOK]
