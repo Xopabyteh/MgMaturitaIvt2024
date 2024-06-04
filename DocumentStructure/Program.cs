@@ -32,8 +32,12 @@ static bool Validate(string input)
         }
         else if(tag.Value == "END")
         {
-           var lastTagValue = structureStack.Pop();
+            if(structureStack.Count == 0)
+            {
+                return false;
+            }
 
+            var lastTagValue = structureStack.Pop();
             if(lastTagValue != tagValue.Value)
             {
                 return false;
