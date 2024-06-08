@@ -5,7 +5,6 @@ var testInput =
     {START:outer}
         {START:inner}text
         text{END:inner}
-    {END:outer}
     """;
 
 var valid = Validate(testInput);
@@ -45,5 +44,5 @@ static bool Validate(string input)
         }
     }
 
-    return true;
+    return structureStack.Count == 0;
 }
